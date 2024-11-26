@@ -1,2 +1,2 @@
-# Coding-Challenge-7
-This is the repository for the Coding Challenge 7 assignment for ISM 3232.
+# Company Department Salary Calculations
+This is a company department salary calculation application. Employees are created in different departments, and we can calculation the entire company salary, as well as each individual department salary.
